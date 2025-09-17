@@ -1,0 +1,28 @@
+blocks:
+  projects:
+    title: Objets
+categories:
+  no_project: Aucun objet dans cette catégorie
+  type:
+    projects_categories: Catégories des objets
+organizations:
+  backlinks:
+    projects: Objets
+projects:
+  author: Auteur·rice
+  authors: "Auteur·rice·s"
+  count:
+    one: "1 objet"
+    other: "{{ .Count }} objets"
+  informations: Informations
+  next: Objet suivant
+  next_aria: Objet suivant “{{ .Title }}”
+  none: Aucun objet
+  previous: Objet précédent
+  previous_aria: Objet précédent “{{ .Title }}”
+  reading_time: Temps de lecture
+  see_all: Voir tous les objets
+  see_all_in_program: Voir tous les objets de la formation
+  see_all_in_category: Voir tous les objets “{{ .Title }}”
+  title: Objets
+  year: Année
