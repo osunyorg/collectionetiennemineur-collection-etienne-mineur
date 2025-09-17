@@ -25,3 +25,4 @@ params:
         subtitle: true
         summary: true
         year: true
+      truncate_description: 0
