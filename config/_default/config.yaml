@@ -20,7 +20,7 @@ params:
     index:
       layout: list
       options:
-        categories: true
+        categories: false
         image: true
         subtitle: true
         summary: true
